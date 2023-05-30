@@ -178,7 +178,7 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url=f"https://t.me/{CHANNEL}",
+                                url=f"https://t.me/Octave_support",
                             ),
                         ],
                     ]
@@ -274,7 +274,7 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url=f"https://t.me/{CHANNEL}",
+                                url=f"https://t.me/Octave_support",
                             ),
                         ],
                     ]
