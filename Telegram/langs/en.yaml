@@ -33,10 +33,10 @@ pm_help_text: |
     Click on the buttons below to get documentation about specific modules!
 
 add_bot_to_group_btn: "Add {} to your chat"
-support_chat_link_btn: "https://t.me/pglpnti_ki_duniya"
-updates_channel_link_btn: "https://t.me/Octave_support"
-source_btn: "https://te.legra.ph/file/279492d88207f648171aa.mp4"
-owner_btn: "Owner"
+support_chat_link_btn: "Support"
+updates_channel_link_btn: "Updates"
+source_btn: "Source code"
+owner_btn: "My Daddy"
 
 admin_help: |
    • `/admins`*:* list of admins in the chat
