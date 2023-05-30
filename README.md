@@ -31,7 +31,7 @@ pip3 install -U pip
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 source ~/.bashrc
 nvm install v18
-git clone https://github.com/ITZ-ZAID/Telegram # clone the repo.(Before Cloning Make Sure uh have Filled Your Vars in config.ini)
+git clone https://github.com/decentboyy/Telegram # clone the repo.(Before Cloning Make Sure uh have Filled Your Vars in config.ini)
 cd Telegram
 pip3 install -U -r requirements.txt
 cp sample.env .env
