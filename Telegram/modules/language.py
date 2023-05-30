@@ -48,7 +48,7 @@ def set_lang(update: Update, _) -> None:
         [
             InlineKeyboardButton(
                 text="Help us in translations",
-                url="https://GitHub.com/ITZ-ZAID",
+                url="https://te.legra.ph/file/279492d88207f648171aa.mp4",
             )
         ]
     )
