@@ -164,13 +164,13 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "source_btn"),
-                                url="https://github.com/ITZ-ZAID/Telegram",
+                                url="https://te.legra.ph/file/279492d88207f648171aa.mp4",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url=f'https://t.me/{SUPPORT}',
+                                url=f'https://t.me/pglpnti_ki_duniya',
                             ),
                             InlineKeyboardButton(
                                 text="Help",
