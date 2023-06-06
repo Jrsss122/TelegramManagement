@@ -1,6 +1,8 @@
 <p align="center"><a href="https://github.com/ITZ-ZAID/Telegram"><img src="https://img.shields.io/badge/𝐀𝐧𝐢𝐞%20𝐑𝐨𝐛𝐨𝐭-red?&style=flat-square?&logo=github" width=600px></a></p>
 <p align="center"><a href="https://github.com/ITZ-ZAID/Telegram"><img src="https://telegra.ph/file/733bd57cdf90f8269ef72.jpg"></a></p>
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/Telegram)
+
 #
 
 <p align="center">
