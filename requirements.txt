@@ -19,7 +19,7 @@ pillow>=4.2.0
 psutil
 psycopg2-binary
 pyYAML>=5.1.2
-pyrate-limiter
+pyrate-limiter==2.0.0
 python-telegram-bot==13.9
 requests
 spamwatch
@@ -29,7 +29,7 @@ telethon==1.24.0
 ujson
 pycryptodome
 base58
-py-tgcalls==0.9.1
+py-tgcalls==0.9.2
 pytimeparse
 git+https://github.com/Itz-fork/py-trans.git
 python-dotenv 
